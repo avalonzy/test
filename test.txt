@@ -1,3 +1,9 @@
 11111
 
+<<<<<<< HEAD
 master1
+=======
+branch1
+
+b2
+>>>>>>> branch1
